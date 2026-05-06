@@ -55,7 +55,7 @@ function renderMessage($msg: HTMLElement, getMessage: () => Message, updateDom: 
       );
     });
   } catch (e) {
-    window.gtag('event', 'exception', { 'description': e, 'fatal': true });
+    console.error(e);
     fragment = errorFragment(`An error occured during the parsing of the .msg file. Error: ${e}`);
   }
 

@@ -31,6 +31,3 @@ The page is hosted via Cloudfare. There are multiple branches for the preview an
 Branches:
  - dev - for development and corresponds to Preview in Cloudfare
  - main - for production and corresponds to Production in Cloudfare
-
-### Support
-If you wish to support me you can by me a [coffee](https://buymeacoffee.com/markian98f).
