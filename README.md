@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/f065cc3a-c40b-4917-ac51-006cfbc78f0f" alt="Icon"/>
-    <p><strong>https://msg-viewer.pages.dev/</strong><p>
+    <p><strong>h[ttps://msg-viewer.pages.dev](https://gentle-stone-06d2d0310.7.azurestaticapps.net)/</strong><p>
 </div>
 
 ### Description
